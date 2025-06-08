@@ -41,7 +41,7 @@ This project demonstrates the power of combining modern NLP techniques and vecto
 
 1. **Clone the repository:**
   ```bash
-  git clone https://github.com/amarkosovac11/Semantic-News-Recommender.git
+  git clone https://github.com/FarisMujacic/Semantic-News-Recommender.git
   cd Semantic-News-Recommender
   ```
 2. **Create a virtual environment (optional but recommended):**
